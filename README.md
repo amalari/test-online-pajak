@@ -38,7 +38,7 @@ Current arbitrary choices are:
 - VeeValidate for validation that combined with botstrap vue
 - VueRouter for routing
 
-I try to create robust coding ehere implementing concept seperation of concerns:
+I try to create robust code where implementing seperation of concerns concept:
 
 - pages => this folder contains gateway for route every route will linked with pages component
 - store => state management and responsible for getting call services to getting data from API
