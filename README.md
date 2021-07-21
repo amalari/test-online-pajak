@@ -6,13 +6,6 @@ Before install module, please check pnpm installed or you can run code below to 
 > npm install -g pnpm
 ```
 
-```bash
-# install dependencies
-> yarn install
-# serve with hot reload at localhost:8080
-> yarn serve
-```
-
 The stack is built using [vue-cli webpack](https://github.com/vuejs-templates/webpack) so to get started all you have to do is:
 
 ```bash
