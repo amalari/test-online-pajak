@@ -1,24 +1,23 @@
-# my-app
+## Getting started
 
-## Project setup
-```
-pnpm install
-```
+Before install module, please check pnpm installed or you can run code below to install pnpm globally.
 
-### Compiles and hot-reloads for development
-```
-pnpm run serve
+```bash
+> npm install -g pnpm
 ```
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
-
-### Lints and fixes files
-```
-pnpm run lint
+```bash
+# install dependencies
+> yarn install
+# serve with hot reload at localhost:8080
+> yarn serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The stack is built using [vue-cli webpack](https://github.com/vuejs-templates/webpack) so to get started all you have to do is:
+
+```bash
+# install dependencies
+> pnpm install
+# serve with hot reload at localhost:8080
+> pnpm serve
+```

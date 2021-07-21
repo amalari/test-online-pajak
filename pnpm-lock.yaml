@@ -8,9 +8,10 @@ specifiers:
   babel-eslint: ^10.1.0
   bootstrap: 4.6.0
   bootstrap-vue: 2.21.2
-  core-js: ^3.6.5
+  core-js: ^3.15.2
   eslint: ^6.7.2
   eslint-plugin-vue: ^6.2.2
+  regenerator-runtime: ^0.13.7
   v-mask: ^2.2.4
   vee-validate: ^3.4.11
   vue: ^2.6.11
@@ -24,6 +25,7 @@ dependencies:
   bootstrap: 4.6.0
   bootstrap-vue: 2.21.2_vue@2.6.14
   core-js: 3.15.2
+  regenerator-runtime: 0.13.7
   v-mask: 2.2.4
   vee-validate: 3.4.11_vue@2.6.14
   vue: 2.6.14
@@ -6974,7 +6976,6 @@ packages:
 
   /regenerator-runtime/0.13.7:
     resolution: {integrity: sha512-a54FxoJDIr27pgf7IgeQGxmqUNYrcV338lf/6gH456HZ/PhX+5BcwHXG9ajESmwe6WRO0tAzRUrRmNONWgkrew==}
-    dev: true
 
   /regenerator-transform/0.14.5:
     resolution: {integrity: sha512-eOf6vka5IO151Jfsw2NO9WpGX58W6wWmefK3I1zEGr0lOD0u8rwPaNqQL1aRxUaxLeKO3ArNh3VYg1KbaD+FFw==}
